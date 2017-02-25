@@ -7,3 +7,11 @@
 Homestead.json
 Homestead.yaml
 .env
+
+# Vagrant stuff
+acceptance_config.yml
+boxes/*
+/.vagrant
+/website/.vagrant
+/website/build
+/vagrant-spec.config.rb
